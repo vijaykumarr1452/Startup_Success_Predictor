@@ -1,6 +1,6 @@
 # Startup_Success_Predictor
 
-# **Startup Profit Prediction Using Multiple Linear Regression**
+## **Startup Profit Prediction Using Multiple Linear Regression**
 
 
 This project demonstrates the use of **Multiple Linear Regression** to predict the profits of startups based on investment in R&D, Administration, and Marketing. The dataset (`50_Startups.csv`) includes 50 records of startups with features such as `R&D Spend`, `Administration`, `Marketing Spend`, `State`, and `Profit`. The analysis preprocesses the dataset (including encoding categorical data), splits it into training and testing sets, and builds a predictive model using Python libraries like **pandas**, **NumPy**, and **scikit-learn**. Insights on model performance are obtained using evaluation metrics such as R-squared.
