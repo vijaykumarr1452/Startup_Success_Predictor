@@ -11,11 +11,13 @@ This project demonstrates the use of **Multiple Linear Regression** to predict t
 
 The 50_Startups.csv dataset contains information about 50 startups, with the following attributes:
 
-*R&D Spend*: Investment in research and development. ($)
-*Administration*: Investment in administrative operations. ($)
-*Marketing Spend*: Budget allocated for marketing campaigns. ($)
-*State*: The state where the startup operates. (New York, California, or Florida)
-*Profit*: The target variable, representing the net profit of the startup. ($)
+*R&D Spend*: Investment in research and development. ($) //
+*Administration*: Investment in administrative operations. ($) //
+*Marketing Spend*: Budget allocated for marketing campaigns. ($) //
+*State*: The state where the startup operates. (New York, California, or Florida) //
+*Profit*: The target variable, representing the net profit of the startup. ($) //
+
+---
 
 ### **Key Insights** :
 
@@ -75,4 +77,9 @@ notebook_info = {
 
 dataset_info, notebook_info
 ```
+
 ---
+
+[ Linkedin | ](https://www.linkedin.com/in/rachuri-vijaykumar/)  // [ Github | ](https://github.com/vijaykumarr1452)  // [ EMAIL ](mailto:vijaykumarit45@gmail.com)
+
+
