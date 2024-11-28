@@ -79,7 +79,7 @@ dataset_info, notebook_info
 ```
 
 ---
-
-[ Linkedin | ](https://www.linkedin.com/in/rachuri-vijaykumar/)  // [ Github | ](https://github.com/vijaykumarr1452)  // [ EMAIL ](mailto:vijaykumarit45@gmail.com)
+### **Contact** :
+[ Linkedin ](https://www.linkedin.com/in/rachuri-vijaykumar/) // [ Github ](https://github.com/vijaykumarr1452) // [ Email ](mailto:vijaykumarit45@gmail.com) // [ Twitter ](https://x.com/vijay_viju1)
 
 
