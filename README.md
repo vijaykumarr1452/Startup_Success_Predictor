@@ -15,6 +15,9 @@ This project demonstrates the use of **Multiple Linear Regression** to predict t
 
 Run the notebook to reproduce the workflow or adapt the model for similar regression problems.
 
+## Metrics 
+![PNG](prediction_metrics.png)
+
 ---
 
 Code :
